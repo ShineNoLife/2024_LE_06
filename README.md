@@ -1,1 +1,1 @@
-repository for testing git & github
+Fundamentals learnings for 2024_LE_06
